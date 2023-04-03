@@ -4,4 +4,4 @@ class Hello:
 
 class Hi(Hello):
     def __str__(self):
-        return f'   Hello                {self.str}'
+        return f'   Hello          {self.str}'
